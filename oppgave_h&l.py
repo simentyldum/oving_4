@@ -31,6 +31,5 @@ print(sum_over_5)
 oppgave_h = sum_over_5_kalk(temperaturer)
 print(oppgave_h)
 
-# hello hello
 
 
